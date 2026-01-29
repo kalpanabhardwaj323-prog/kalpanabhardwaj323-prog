@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Kalpana 👋  
+I'm a Computer Science student specializing in AI & ML who enjoys building practical projects using Python.
 
-<!--
-**kalpanabhardwaj323-prog/kalpanabhardwaj323-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Interests  
+Python  
+Machine Learning  
+Data Science  
+Computer Vision  
 
-Here are some ideas to get you started:
+📌 Projects  
+Face Emotion Recognition  
+Time Series Forecasting using LSTM  
+Flight Price Prediction  
+Rule-Based Chatbot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me  
+LinkedIn: https://www.linkedin.com/in/kalpana-bhardwaj-1551b52b2/
